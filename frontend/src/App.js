@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
-        <h1>Todo App</h1>
+        <h1>Todo App - Auto Deploy Test</h1>
 
-        <p>Auto deploy test successful</p>
+        <p>This change is for verifying auto deploy on Render</p>
 
         <a
           className="App-link"
