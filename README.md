@@ -1,4 +1,3 @@
-[Git repo]https://github.com/pemayangkid/pemayangkidorji_02250363_DSO101_A1.git
 # Pema Yangki Dorji_02250363_DSO101_A1
 
 [Git repo]https://github.com/pemayangkid/pemayangkidorji_02250363_DSO101_A1.git
