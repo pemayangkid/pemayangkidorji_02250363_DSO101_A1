@@ -1,5 +1,7 @@
-[text]https://github.com/pemayangkid/pemayangkidorji_02250363_DSO101_A1.git
+[Git repo]https://github.com/pemayangkid/pemayangkidorji_02250363_DSO101_A1.git
 # Pema Yangki Dorji_02250363_DSO101_A1
+
+[Git repo]https://github.com/pemayangkid/pemayangkidorji_02250363_DSO101_A1.git
 
 ## Part A — Docker Hub + Manual Render Deploy
 ### Docker Hub push
@@ -17,7 +19,7 @@
 ![render.yaml configuration file](screenshot/6.png)
 
 ### GitHub → Render connection
-[Screenshot of Render Blueprint detecting render.yaml]
+![Render Blueprint detecting render.yaml](screenshot/9.png)
 
 ### Auto-deploy triggered by git push
 ![Render auto-deploy triggered by git push](screenshot/7.png)
