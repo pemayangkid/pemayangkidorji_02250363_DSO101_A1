@@ -8,7 +8,6 @@
 
 ### Render backend service
 ![Backend API running successfully on Render](screenshot/2.png)
-[Screenshot of live backend URL responding]
 
 ### Render frontend service
 ![Live frontend app on Render](screenshot/4.png)
